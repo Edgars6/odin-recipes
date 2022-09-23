@@ -1,0 +1,1 @@
+This is a simple project implementing my HTML lessons into making a website about my favorite recipe.
